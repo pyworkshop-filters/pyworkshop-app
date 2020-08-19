@@ -1,0 +1,9 @@
+aiohttp==3.6.2
+aiohttp_cors==0.7.0
+aiodns==2.0.0
+cchardet==2.1.5
+environ_config==19.1.0
+elasticsearch-dsl==7.1.0
+gunicorn==20.0.4
+marshmallow==3.5.1
+webargs==6.0.0
